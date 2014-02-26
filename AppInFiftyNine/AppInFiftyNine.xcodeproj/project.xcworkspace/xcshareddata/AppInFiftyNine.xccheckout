@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>95D83BF7-BA6A-4C17-995F-CC6C6575A5EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppInFiftyNine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0593DB4D-D199-42A2-A066-19426F2D242A</key>
+		<string>ssh://github.com/TAOAppin59/AppIn59.git</string>
+		<key>DB982724-3521-494B-B5C4-3AD040AA0C54</key>
+		<string>https://github.com/TAOAppin59/AppIn59Mobile-Live.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AppInFiftyNine/AppInFiftyNine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0593DB4D-D199-42A2-A066-19426F2D242A</key>
+		<string>../../../AppIn59</string>
+		<key>DB982724-3521-494B-B5C4-3AD040AA0C54</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TAOAppin59/AppIn59Mobile-Live.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB982724-3521-494B-B5C4-3AD040AA0C54</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0593DB4D-D199-42A2-A066-19426F2D242A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppIn59</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB982724-3521-494B-B5C4-3AD040AA0C54</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppIn59Mobile-Live</string>
+		</dict>
+	</array>
+</dict>
+</plist>
