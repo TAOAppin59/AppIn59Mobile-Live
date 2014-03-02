@@ -61,11 +61,6 @@ If you want to talk more about any of this gobbledy-gunk, give me a holler.
 
 [Dee Madden](mailto:dee.madden@sftsrc.com)
 
-Also... If you want to spend some more time playing with all of the monkey wrenches, ratchets and socket sets covered here, check out the 5-day bootcamp I am currently teaching on enterprise mobile development, Ironically titled, **"Inro to Enterprise Mobile Application Development (SoftSource I-EMAD)":**
-
-[http://www.eventbrite.com/e/intro-to-enterprise-mobile-application-development-softsource-i-emad-registration-10085151961](http://www.eventbrite.com/e/intro-to-enterprise-mobile-application-development-softsource-i-emad-registration-10085151961)
-
-
 ## Responsive Design
 
 There are exactly - EGG-ZACTLY - three trillion great blog posts and articles out there for responsive web design, so I would encourage you to do some research.  What I will cover here is the tools I like to use to help facilitate it and CSS work in general.
